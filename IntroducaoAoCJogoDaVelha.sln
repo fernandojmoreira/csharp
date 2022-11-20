@@ -5,9 +5,11 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OláMundo", "OláMundo\OláMundo.csproj", "{5F17C648-EBEA-4EE2-97E8-216B223BA810}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposEVariaveis", "TiposEVariaveis\TiposEVariaveis.csproj", "{6BE22EDC-9F9A-48B4-85CE-AC2C436D8E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TiposEVariaveis", "TiposEVariaveis\TiposEVariaveis.csproj", "{6BE22EDC-9F9A-48B4-85CE-AC2C436D8E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{446F835A-8790-403E-8196-A19D78FBBC60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LacosIterativos", "LacosIterativos\LacosIterativos.csproj", "{446F835A-8790-403E-8196-A19D78FBBC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LacosCondicionais", "LacosCondicionais\LacosCondicionais.csproj", "{34B2CE48-58E0-45AC-86BC-643C13950D3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{446F835A-8790-403E-8196-A19D78FBBC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{446F835A-8790-403E-8196-A19D78FBBC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{446F835A-8790-403E-8196-A19D78FBBC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B2CE48-58E0-45AC-86BC-643C13950D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B2CE48-58E0-45AC-86BC-643C13950D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B2CE48-58E0-45AC-86BC-643C13950D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B2CE48-58E0-45AC-86BC-643C13950D3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
