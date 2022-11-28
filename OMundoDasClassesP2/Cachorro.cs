@@ -12,5 +12,7 @@ namespace OMundoDasClassesP2
         {
 
         }
+
+        public override Som SomEmitido => Som.Latido;
     }
 }

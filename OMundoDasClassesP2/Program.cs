@@ -24,6 +24,8 @@ namespace OMundoDasClassesP2
         {
             Console.WriteLine($"Nome: {animal.Nome}");
             Console.WriteLine($"Idade: {animal.Idade}");
+            Console.WriteLine($"Som emitido: {animal.SomEmitido}");
+            Console.WriteLine($"Locomoção: {animal.Locomocao}");
         }
     }
 }

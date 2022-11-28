@@ -12,5 +12,9 @@ namespace OMundoDasClassesP2
         {
 
         }
+
+        public override Som SomEmitido => Som.Miado; // override = sobrescrever
+
+        public override string Locomocao => "Está pulando";
     }
 }
